@@ -1109,28 +1109,18 @@
               "personalized_message_text": "Add a personalized message"
             }
           },
-          "593e4a64-91cc-4c7e-bf0d-13eb30e1fcac": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "beauty-jelly-dose",
-              "variant_id": "39406521483328",
-              "min_price": "18500",
-              "message": "Gift item"
-            }
-          },
           "e899757d-296b-485f-8a21-b9abbcd660e2": {
             "type": "buy-x-get-y-gift",
             "settings": {
               "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-usd-70",
               "variant_id": "6595884515392",
               "handle": "tri-light-sabi",
-              "message": "Exclusive Gift item"
+              "message": "Gift item"
             }
           }
         },
         "block_order": [
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6",
-          "593e4a64-91cc-4c7e-bf0d-13eb30e1fcac",
           "e899757d-296b-485f-8a21-b9abbcd660e2"
         ],
         "settings": {
