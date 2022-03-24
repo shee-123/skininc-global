@@ -3079,6 +3079,28 @@
         ],
         "settings": {
         }
+      },
+      "16480988916a5ec629": {
+        "type": "sabi-section",
+        "blocks": {
+          "464352f8-6892-47e0-9a6c-d1230329d0b3": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "",
+              "title": "Scan the QR code and download now to  curate your wellness journey with .",
+              "content": "",
+              "direction": "right",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "464352f8-6892-47e0-9a6c-d1230329d0b3"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
@@ -3098,7 +3120,8 @@
       "1552376488178",
       "16480982829021d3d1",
       "1606221518b32ca7e0",
-      "1648098377cd8442fb"
+      "1648098377cd8442fb",
+      "16480988916a5ec629"
     ]
   },
   "presets": {
