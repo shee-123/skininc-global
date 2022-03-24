@@ -2930,6 +2930,7 @@
           "814433f8-3cc0-430a-baf5-1b57ab89e297": {
             "type": "approach_item",
             "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
               "img_link": "",
               "title": "Customise your 360 wellness journey  for your lit from within glow.",
               "content": "",
@@ -2944,6 +2945,56 @@
           "d3c6a56d-0046-4e6e-8f20-b88da32ab224",
           "c3012959-c971-4d21-b6b4-57bc927b5612",
           "814433f8-3cc0-430a-baf5-1b57ab89e297"
+        ],
+        "settings": {
+        }
+      },
+      "16480979277d2eae06": {
+        "type": "sabi-section",
+        "blocks": {
+          "d81f3555-f8fb-44bc-a5cc-de9210236271": {
+            "type": "header",
+            "settings": {
+              "heading": "POWERED BY",
+              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
+            }
+          },
+          "ea3b6f6e-8ae4-483b-8c54-77b1ca8e8c75": {
+            "type": "header",
+            "settings": {
+              "heading": "<span>Step-by-step treatment for transformational results<br> <i>Glow, Revive, Soothe & V-Sculpt with 5 NASA LED Lights<\/i><\/span>",
+              "logo": "shopify:\/\/shop_images\/Full-Packshot.gif"
+            }
+          },
+          "6d215018-8447-401c-b83d-a1cd8fc58ec1": {
+            "type": "approach_item",
+            "settings": {
+              "img_link": "",
+              "title": "Customize your self-care treatment based on your skin goals.",
+              "content": "<p>Pair +SABI AI app with Tri-Light™ to enjoy a guided and customised LED facial treatments with your selfie & hydro-sensor analysis. Complete the Skin Identity Quiz to get your clinically-proven and award-winning customised cocktail serum and booster. Leveraging on the data of over 1.2 million skin profiles, your self-care treatment is customised based on water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposure.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "ffb9e5c2-e06d-4207-a861-ce7e0c1cb566": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "",
+              "title": "Download +SABI AI app, the world’s first 360 wellness skin health coach",
+              "content": "",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "d81f3555-f8fb-44bc-a5cc-de9210236271",
+          "ea3b6f6e-8ae4-483b-8c54-77b1ca8e8c75",
+          "6d215018-8447-401c-b83d-a1cd8fc58ec1",
+          "ffb9e5c2-e06d-4207-a861-ce7e0c1cb566"
         ],
         "settings": {
         }
@@ -2963,7 +3014,8 @@
       "1544002093716",
       "1544161388661",
       "16063023810976d133",
-      "16480977008c5be70e"
+      "16480977008c5be70e",
+      "16480979277d2eae06"
     ]
   },
   "presets": {
