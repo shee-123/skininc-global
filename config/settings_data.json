@@ -490,6 +490,7 @@
       },
       "1544002093716": {
         "type": "social_media_awards",
+        "disabled": true,
         "blocks": {
           "1544070065822": {
             "type": "content",
@@ -511,6 +512,7 @@
       },
       "1544002103271": {
         "type": "approach",
+        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
@@ -579,6 +581,7 @@
       },
       "1544002128879": {
         "type": "featured_in",
+        "disabled": true,
         "blocks": {
           "1545674266961": {
             "type": "text",
@@ -629,6 +632,7 @@
       },
       "1544408691386": {
         "type": "usp",
+        "disabled": true,
         "blocks": {
           "1544408850006": {
             "type": "usp_item",
@@ -667,6 +671,7 @@
       },
       "1545015626607": {
         "type": "skinid",
+        "disabled": true,
         "settings": {
           "title": "4 steps to glowing, dewy skin",
           "subheading": "Why do 10 steps when you can achieve more with less?",
@@ -1316,6 +1321,7 @@
       },
       "1552376488178": {
         "type": "icon-gallery",
+        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
@@ -1463,6 +1469,7 @@
       },
       "1602273487859": {
         "type": "review-carousel",
+        "disabled": true,
         "settings": {
         }
       },
@@ -1471,11 +1478,10 @@
         "blocks": {
           "2944070e-e994-4ef9-b6ca-28227148e37e": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Web_Banner_ROW.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner_ROW.jpg",
-              "apply_overlay": true,
+              "image": "shopify:\/\/shop_images\/banner-main.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/banner-main.jpg",
+              "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
@@ -1487,6 +1493,7 @@
           },
           "82bcdc3e-4445-4ddd-82f1-90ee7fc30bd8": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_2_2be6211b-aca3-49b4-ba3f-42998a34244e.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_2.jpg",
@@ -1502,6 +1509,7 @@
           },
           "13d7b667-6613-4dce-bbf6-67c0522302fb": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Teal_Trilight_Banner-_Web_1c252c27-73c3-46d3-bd69-9f99bcd0d562.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Teal_Trilight_Banner_-_Mobile_315064ea-2f4f-4071-b763-40a20f22fafe.jpg",
@@ -1517,6 +1525,7 @@
           },
           "aac0d500-270d-4591-8410-588c5e32db97": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Mobile_Banner.jpg",
@@ -1532,6 +1541,7 @@
           },
           "6a2ca74d-4956-4c3c-b52d-a7c1711bda2b": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_3.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_3.jpg",
@@ -1733,6 +1743,7 @@
       },
       "16063023810976d133": {
         "type": "instafeed",
+        "disabled": true,
         "settings": {
           "heading_font": "helvetica_n4",
           "heading_size": 26,
@@ -1765,43 +1776,6 @@
       },
       "product-bundle-widget": {
         "type": "product-bundle-widget",
-        "settings": {
-        }
-      },
-      "1622793875259f6ab2": {
-        "type": "marquee-banner",
-        "blocks": {
-          "6a5299c1-af8a-49dd-9e7c-29627c2b3af8": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Loyal customers get 10% discount"
-            }
-          },
-          "9e106a9f-5497-4874-9c05-385fa75ad117": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Free shipping over $75"
-            }
-          },
-          "7f4c4f54-0175-43f6-9a17-8c49148159a5": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Secure payments"
-            }
-          },
-          "e3748692-7327-44bd-b468-b8a194824835": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "150+ Beauty Awards"
-            }
-          }
-        },
-        "block_order": [
-          "6a5299c1-af8a-49dd-9e7c-29627c2b3af8",
-          "9e106a9f-5497-4874-9c05-385fa75ad117",
-          "7f4c4f54-0175-43f6-9a17-8c49148159a5",
-          "e3748692-7327-44bd-b468-b8a194824835"
-        ],
         "settings": {
         }
       },
@@ -2902,9 +2876,7 @@
       }
     },
     "content_for_index": [
-      "homepage-intro",
       "1574866558816",
-      "1622793875259f6ab2",
       "featured-products",
       "1606221518b32ca7e0",
       "1544002103271",
