@@ -2997,13 +2997,21 @@
         ],
         "settings": {
         }
+      },
+      "16480982829021d3d1": {
+        "type": "text-with-image",
+        "settings": {
+          "title": "Less is more.",
+          "content": "<p>You don’t need 20 steps or 20,000<br\/>ingredients for a healthy, glowing you.<br\/>Generate zero waste with No Nasties<br\/>formula customized just for you.<\/p>",
+          "link_text": "",
+          "link_url": ""
+        }
       }
     },
     "content_for_index": [
       "1574866558816",
       "1648097392720296fe",
       "164809757934618c39",
-      "1606221518b32ca7e0",
       "1544002103271",
       "1545015626607",
       "1544002128879",
@@ -3014,7 +3022,9 @@
       "16063023810976d133",
       "16480977008c5be70e",
       "16480979277d2eae06",
-      "1552376488178"
+      "1552376488178",
+      "16480982829021d3d1",
+      "1606221518b32ca7e0"
     ]
   },
   "presets": {
