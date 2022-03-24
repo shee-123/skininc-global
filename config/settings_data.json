@@ -3006,6 +3006,79 @@
           "link_text": "",
           "link_url": ""
         }
+      },
+      "1648098377cd8442fb": {
+        "type": "science",
+        "blocks": {
+          "14fb7c7b-e7da-45a6-8c19-78d518f09a6e": {
+            "type": "header",
+            "settings": {
+              "heading": "",
+              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
+            }
+          },
+          "af80aed5-6e93-4b71-bf4f-bb965f6f1f84": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Blonde_Girl_with_Orange_Light_1_-_Without_Copy.png",
+              "s_logo": "shopify:\/\/shop_images\/s.png",
+              "img_link": "",
+              "title": "",
+              "content": "<p>Using <em><strong>SCIENCE<\/strong><\/em><em> <\/em>to unlock your full potential.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "b5398c9b-a5eb-4713-a945-91313b8217d1": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Asian_Girl_1.png",
+              "s_logo": "shopify:\/\/shop_images\/r.png",
+              "img_link": "",
+              "title": "",
+              "content": "<p>Powered by <em><strong>AI <\/strong><\/em>to take the guesswork out of your wellness journey.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "5d0d1965-ff74-4d78-9291-59fbe1681793": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shutterstock_1960316680.jpg",
+              "s_logo": "shopify:\/\/shop_images\/b.png",
+              "img_link": "",
+              "title": "",
+              "content": "<p>Creating the perfect <em><strong>BALANCE <\/strong><\/em><br\/>between your emotional, mental,<br\/>and physical health.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "002eef76-3b7e-4cc7-9293-8fdff2010dfb": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Main_KV_2_-_Without_Copy_1.jpg",
+              "s_logo": "shopify:\/\/shop_images\/1.png",
+              "img_link": "",
+              "title": "",
+              "content": "<p>Nurturing your <em><strong>INNER-BEING<\/strong><\/em> cause feeling good is the new looking good.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "14fb7c7b-e7da-45a6-8c19-78d518f09a6e",
+          "af80aed5-6e93-4b71-bf4f-bb965f6f1f84",
+          "b5398c9b-a5eb-4713-a945-91313b8217d1",
+          "5d0d1965-ff74-4d78-9291-59fbe1681793",
+          "002eef76-3b7e-4cc7-9293-8fdff2010dfb"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
@@ -3024,7 +3097,8 @@
       "16480979277d2eae06",
       "1552376488178",
       "16480982829021d3d1",
-      "1606221518b32ca7e0"
+      "1606221518b32ca7e0",
+      "1648098377cd8442fb"
     ]
   },
   "presets": {
