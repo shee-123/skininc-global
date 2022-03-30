@@ -934,6 +934,38 @@ div#mpr-product-list td[data-column="Product name"] {
     .Cart--expanded .Cart__NoteContainer {
         width: 340px;
     }  
+  .rb-container {
+    padding: 0 20px;
+}
+h2.rb-step-title.tf2,h1.rb-extras-title:before {
+    font-size: 28px;
+}
+p.rb-title {
+    font-size: 14px;
+}
+h2.rb-section-title {
+    font-size: 20px;
+}
+h4.rb-box-contents-title {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+ul.rb-box-contents-list {
+    margin-bottom: 0;
+}
+.rb-container.rb-extras.rb-multi-step {
+    max-width: 100%;
+}
+.rb-items-wrapper .rb-addon-item .rb-qty-wrapper {
+    width: 140px;
+}
+p.rb-extras-description {
+    width: 100%;
+}  
+.rb-container {
+    padding: 0 10px;
+} 
+  
 }
 
 /* end css wranty app */
@@ -999,7 +1031,11 @@ ul.payment_icon svg {
 .free-products-section button {
     padding: 10px 0;
 }
-
+.rb-footer-actions a.rb-btn,.rb-extras-sidebar .rb-extras-summary >div:nth-of-type(2) a:nth-of-type(1) {
+    width: 100%;
+}
+  
+  
 } 
 
 /* wranty app*/
@@ -1032,6 +1068,52 @@ header.PageHeader.pro_head {
     width: 100%;
 }
 
+.PageHeader.PageHeader--withBackground .container .SectionHeader {
+    background: transparent;
+}
+.PageHeader--withBackground .Heading {
+    font-size: 22px;
+}   
+.rb-multi-step .rb-frequency--selected {
+    flex-direction: column;
+    align-items: baseline;
+}
+.rb-multi-step .rb-frequency--selected {
+    flex-direction: column;
+    align-items: baseline;
+}
+h2.rb-step-title.tf2, h1.rb-extras-title:before {
+    font-size: 24px;
+}
+p.rb-extras-description:before {
+    width: 100%;
+    font-size: 16px;
+}
+.rb-items-wrapper .rb-addon-item .rb-item-content {
+    flex-direction: column;
+    align-items: flex-start;
+}
+.rb-items-wrapper .rb-addon-item p.rb-title {
+    width: 100%;
+    text-align: left;
+    font-size: 14px !important;
+}
+.rb-items-wrapper .rb-addon-item p {
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+.rb-extras-sidebar p {
+    font-size: 16px;
+}
+.rb-extras-header {
+    margin-bottom: 40px !important;
+}  
+h1.rb-extras-title:before {
+    font-size: 18px;
+    line-height: 25px;
+}
+  
+  
 }  
 /* wranty app*/
 
