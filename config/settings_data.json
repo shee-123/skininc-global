@@ -808,7 +808,7 @@
         "type": "image-with-text-overlay",
         "settings": {
           "section_size": "small",
-          "image": "shopify:\/\/shop_images\/Our_Story_2.jpg",
+          "image": "shopify:\/\/shop_images\/Our_Story.jpg",
           "text_color": "#454545",
           "overlay_color": "#000000",
           "overlay_opacity": 1,
