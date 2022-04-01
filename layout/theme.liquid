@@ -1,6 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="{{ shop.locale }}">
 <head>
+  {% if handle contains 'sabi_subscription_program' %}
+<meta name="robots" content="noindex">
+{% endif %}
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
