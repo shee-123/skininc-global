@@ -1123,11 +1123,21 @@
               "handle": "tri-light-sabi",
               "message": "Gift item"
             }
+          },
+          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-38",
+              "variant_id": "6600110964800",
+              "min_price": "18500",
+              "message": "Gift item"
+            }
           }
         },
         "block_order": [
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6",
-          "e899757d-296b-485f-8a21-b9abbcd660e2"
+          "e899757d-296b-485f-8a21-b9abbcd660e2",
+          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e"
         ],
         "settings": {
           "show_shipping_estimator": false,
