@@ -1107,7 +1107,6 @@
         "blocks": {
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6": {
             "type": "personalise_your_gift",
-            "disabled": true,
             "settings": {
               "title": "Personalize your gift",
               "buy_gift": true,
