@@ -1132,12 +1132,22 @@
               "min_price": "18500",
               "message": "Gift item"
             }
+          },
+          "eb3b62b2-7447-405a-baa4-3d853afd81f1": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "beauty-jelly-dose",
+              "variant_id": "39406521483328",
+              "min_price": "18500",
+              "message": "Gift item"
+            }
           }
         },
         "block_order": [
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6",
           "e899757d-296b-485f-8a21-b9abbcd660e2",
-          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e"
+          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e",
+          "eb3b62b2-7447-405a-baa4-3d853afd81f1"
         ],
         "settings": {
           "show_shipping_estimator": false,
