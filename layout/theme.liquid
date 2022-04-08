@@ -1,6 +1,12 @@
-<!doctype html>
-<html class="no-js" lang="{{ shop.locale }}">
+<!doctype html>     
+<html class="no-js" lang="{{ shop.locale }}">    
 <head>
+  {% if handle contains "360_customized_subscription_program" %}
+<meta name="robots" content="noindex">
+{% endif %}
+  {% if template contains "product" and product.handle == "360_customized_subscription_program" %}
+ <meta name="robots" content="noindex">
+{% endif %}
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -90,10 +96,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <link rel="stylesheet" href="{{ 'style.scss.css' | asset_url }}">
     <link rel="stylesheet" href="{{ 'jumpstart_reset_styles.scss.css' | asset_url }}">
     <link rel="stylesheet" href="{{ 'custom_will.css' | asset_url }}">
+    <link rel="stylesheet" href="{{ 'tri-homepage.css' | asset_url }}">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {%- if template contains 'skinid' -%}
      <link rel="stylesheet" href="{{ 'skininc.scss.css' | asset_url }}">
    {%- endif -%}
+    {%- if template contains "subscription" %}
+	   <link rel="stylesheet" href="{{ 'subscription.css' | asset_url }}">
+    {% endif %}
 
     <script>
       // This allows to expose several variables to the global scope, to be used in scripts
