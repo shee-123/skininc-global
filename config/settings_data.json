@@ -1119,7 +1119,7 @@
             "type": "buy-x-get-y-gift",
             "settings": {
               "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-usd-70",
-              "variant_id": "6595884515392",
+              "variant_id": "39704471502961",
               "handle": "tri-light-sabi",
               "message": "Gift item"
             }
@@ -1128,8 +1128,8 @@
             "type": "spend-x-get-y",
             "settings": {
               "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-38",
-              "variant_id": "39417058951232",
-              "min_price": "18500",
+              "variant_id": "6713597886577",
+              "min_price": "25000",
               "message": "Gift item"
             }
           }
