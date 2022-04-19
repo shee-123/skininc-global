@@ -98,14 +98,13 @@
         "blocks": {
           "df6e5b1b-0971-450b-874d-d3073bf065a8": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#d7b4b5",
               "text_color": "#ffffff",
-              "content": "enjoy gwp worth $70 when you purchase tri-light +sabi ai",
+              "content": "enjoy gifts worth up to $105! min. spend of $185",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/products\/tri-light-sabi"
+              "link": "shopify:\/\/collections\/award-winners"
             }
           },
           "1599665324902": {
