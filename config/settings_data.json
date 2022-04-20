@@ -1116,6 +1116,7 @@
           },
           "e899757d-296b-485f-8a21-b9abbcd660e2": {
             "type": "buy-x-get-y-gift",
+            "disabled": true,
             "settings": {
               "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-usd-70",
               "variant_id": "39704471502961",
