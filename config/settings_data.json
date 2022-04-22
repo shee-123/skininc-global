@@ -1132,12 +1132,26 @@
               "min_price": "25000",
               "message": "Gift item"
             }
+          },
+          "c84853fa-58b2-498a-813b-84c2275f61bf": {
+            "type": "tierspend-x-get-y",
+            "settings": {
+              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-38",
+              "variant_id": "39417058951232",
+              "min_price": "18500",
+              "message": "Gift item",
+              "product_handle2": "mothers-day-campaign-gwp-2",
+              "variant_id2": "",
+              "min_price2": "28000",
+              "message2": "Gift item"
+            }
           }
         },
         "block_order": [
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6",
           "e899757d-296b-485f-8a21-b9abbcd660e2",
-          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e"
+          "ad53dc3f-34a0-454a-ad58-9bfc9c5ebd5e",
+          "c84853fa-58b2-498a-813b-84c2275f61bf"
         ],
         "settings": {
           "show_shipping_estimator": false,
