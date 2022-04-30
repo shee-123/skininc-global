@@ -112,10 +112,10 @@
             "settings": {
               "background": "#d7b4b5",
               "text_color": "#ffffff",
-              "content": "Free Shipping on all orders above USD75",
-              "link_label": "",
+              "content": "enjoy 20% savings sitewide* from now till 8 may 2022!",
+              "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/all"
+              "link": "shopify:\/\/collections"
             }
           }
         },
