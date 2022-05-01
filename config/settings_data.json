@@ -3403,21 +3403,6 @@
               "button_2_link": ""
             }
           },
-          "ec25fead-8c00-4336-9a2e-a8f49a9c7f6a": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Mobile_Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition"
-            }
-          },
           "1650602779e8f77326-1": {
             "type": "image",
             "settings": {
@@ -3447,13 +3432,28 @@
               "button_2_text": "",
               "button_2_link": ""
             }
+          },
+          "ec25fead-8c00-4336-9a2e-a8f49a9c7f6a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Mobile_Banner.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition"
+            }
           }
         },
         "block_order": [
           "1650602779e8f77326-0",
-          "ec25fead-8c00-4336-9a2e-a8f49a9c7f6a",
           "1650602779e8f77326-1",
-          "82356d0c-77ac-4541-9f63-c9f06eacede9"
+          "82356d0c-77ac-4541-9f63-c9f06eacede9",
+          "ec25fead-8c00-4336-9a2e-a8f49a9c7f6a"
         ],
         "settings": {
           "show_fullscreen": true,
