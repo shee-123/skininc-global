@@ -98,7 +98,6 @@
         "blocks": {
           "df6e5b1b-0971-450b-874d-d3073bf065a8": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#d7b4b5",
               "text_color": "#ffffff",
