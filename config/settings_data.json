@@ -101,7 +101,7 @@
             "settings": {
               "background": "#d7b4b5",
               "text_color": "#ffffff",
-              "content": "Exclusive Gift With Purchase Worth US$73*",
+              "content": "Until 14 June: Complimentary Anti-Oxidants Essentials Set (Worth USD99) with min. spend of USD145 nett",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
@@ -1116,11 +1116,21 @@
           },
           "5fc2e27a-8c56-4649-9c00-b2cae4484cc8": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "may-2022-gwp",
               "variant_id": "39426420506688",
               "min_price": "16500",
               "message": "Exclusive Gift item"
+            }
+          },
+          "aa2320c9-f02b-40bf-af3e-2642d0067e45": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "anti-oxidants-essentials-gift-set",
+              "variant_id": "39436019138624",
+              "min_price": "14500",
+              "message": "Exclusive Gift"
             }
           },
           "c84853fa-58b2-498a-813b-84c2275f61bf": {
@@ -1141,6 +1151,7 @@
         "block_order": [
           "f83b1689-d2b2-4d54-a89a-199d3013b0a6",
           "5fc2e27a-8c56-4649-9c00-b2cae4484cc8",
+          "aa2320c9-f02b-40bf-af3e-2642d0067e45",
           "c84853fa-58b2-498a-813b-84c2275f61bf"
         ],
         "settings": {
@@ -3390,10 +3401,9 @@
         "blocks": {
           "1650602779e8f77326-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/US_Mother_s_Day_Web_Banner-_1-8May.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/US_Mother_s_Day_Mobile_Banner_-_1-8May.jpg",
+              "image": "shopify:\/\/shop_images\/US---BJD-_-FPB-GWP-Web-Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/US---BJD-_-FPB-GWP-Mobile-Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
