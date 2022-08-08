@@ -1117,7 +1117,6 @@
           },
           "5fc2e27a-8c56-4649-9c00-b2cae4484cc8": {
             "type": "spend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "may-2022-gwp",
               "variant_id": "39426420506688",
